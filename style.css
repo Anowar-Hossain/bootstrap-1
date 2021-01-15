@@ -1,0 +1,48 @@
+.nav{
+   
+    margin-right: 300px;
+}
+.font{
+    font-size: 60px;
+}
+.right{
+    margin-right: 50px;
+    
+}
+#price-color{
+    color: #efa61c;
+    margin-right: 40px;
+}
+.size{
+    height: 500px;
+    width: 350px;
+    
+}
+.footer-style{
+    border: 0;
+    background-color: white;
+}
+.col-style{
+    border: 0;
+    border-radius: 40px;
+    padding: 10px;
+}
+.card-image{
+    background-color:#f1f1f1;
+    border-radius: 20px;
+    padding: 5px;
+    
+    
+}
+#image-3-style{
+    background-color: #f1f1f1;
+
+}
+.another-color{
+    background-color:#f1f1f1;
+    border-radius: 20px;
+}
+.card-2-image{
+    border: 0;
+    border-radius: 20px;
+}
